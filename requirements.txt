@@ -46,3 +46,4 @@ seaborn
 xgboost
 scikit-learn
 joblib
+streamlit
